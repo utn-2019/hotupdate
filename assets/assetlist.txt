@@ -1,0 +1,8 @@
+[
+    { module:'hall',    path:'scenes/main.fire' },
+    { module:'mj',		path:'scenes/mj.fire' },
+    { module:'pdk',		path:'scenes/pdk.fire' },
+
+    { module:'mj',		path:'resources/mj.prefab' },
+    { module:'pdk',		path:'resources/pdk.prefab' },
+]
